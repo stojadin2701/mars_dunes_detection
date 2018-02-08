@@ -1,2 +1,5 @@
-# mars_dunes_detection
-Remote detection of dunes on Mars
+# Remote detection of dunes on Mars
+
+Authors: Michael Pellet, Nemanja Stojoski
+
+Project done as part of the *Image Processing for Earth Observation* course at EPFL.
